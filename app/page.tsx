@@ -215,16 +215,16 @@ export default function Home() {
               {[
                 {
                   name: "Lily Ding",
-                  role: "President",
+                  role: "Leader",
                   bio: "Very very very very smart.",
                 },
                 {
                   name: "Mandy Sun",
-                  role: "Vice President",
+                  role: "Co-leader",
                   bio: "Very very very smart.",
                 },
                 {
-                  name: "Mable ???",
+                  name: "Mabel ???",
                   role: "idk",
                   bio: "Very very smart.",
                 },
