@@ -2,15 +2,7 @@
 
 import Link from "next/link";
 import { FaGithub } from "react-icons/fa";
-import {
-  BookOpen,
-  TrendingUp,
-  Users,
-  ChevronRight,
-  ArrowRight,
-  Heart,
-  Github,
-} from "lucide-react";
+import { BookOpen, TrendingUp, Users, ArrowRight, Github } from "lucide-react";
 import { motion } from "framer-motion";
 
 import { Button } from "@/components/ui/button";
@@ -216,7 +208,7 @@ export default function Home() {
                 {
                   name: "Lily Ding",
                   role: "Leader",
-                  bio: "Very very very very smart.",
+                  bio: "Founder and Leader of the TOKENS Economics Club.",
                 },
                 {
                   name: "Mandy Sun",
@@ -224,15 +216,20 @@ export default function Home() {
                   bio: "Very very very smart.",
                 },
                 {
-                  name: "Mabel ???",
+                  name: "Mabel He",
                   role: "idk",
                   bio: "Very very smart.",
                 },
                 {
-                  name: "Chip ???",
+                  name: "Chip Sun?",
                   role: "idk",
                   bio: "Very smart.",
                 },
+                // {
+                //   name: "Tommy Wu",
+                //   role: "Coolie",
+                //   bio: "Very dumb.",
+                // },
               ].map((member, i) => (
                 <motion.div
                   key={i}
