@@ -213,17 +213,17 @@ export default function Home() {
                 {
                   name: "Mandy Sun",
                   role: "Co-leader",
-                  bio: "Very very very smart.",
+                  bio: "Very very very very smart.",
                 },
                 {
                   name: "Mabel He",
-                  role: "idk",
-                  bio: "Very very smart.",
+                  role: "Head of Publicity Department",
+                  bio: "Very very very smart.",
                 },
                 {
-                  name: "Chip Sun?",
-                  role: "idk",
-                  bio: "Very smart.",
+                  name: "Chip Sun",
+                  role: "Head of Academic Department",
+                  bio: "Very very smart.",
                 },
                 // {
                 //   name: "Tommy Wu",
@@ -257,77 +257,25 @@ export default function Home() {
           </div>
         </section>
 
-        {/*<section id="events" className="relative w-full overflow-hidden py-24">*/}
-        {/*  <div className="absolute inset-0 -z-10 bg-gradient-to-tr from-amber-50 to-white"></div>*/}
-        {/*  <div className="absolute left-0 top-0 -z-10 h-full w-full bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_70%,transparent_100%)]"></div>*/}
+        {/*
+             ---
+            |   |
+            |   |
+            |   |
+   ---------     ---------
+   |                     |
+   ---------     ---------
+            |   |
+            |   |
+            |   |
+            |   |
+            |   |
+            |   |
+             ---
 
-        {/*  <div className="container px-4 md:px-6">*/}
-        {/*    <motion.div*/}
-        {/*      initial={{ opacity: 0, y: 20 }}*/}
-        {/*      whileInView={{ opacity: 1, y: 0 }}*/}
-        {/*      transition={{ duration: 0.8 }}*/}
-        {/*      viewport={{ once: true }}*/}
-        {/*      className="mb-12 flex flex-col items-center justify-center space-y-4 text-center"*/}
-        {/*    >*/}
-        {/*      <div className="mb-2 inline-block rounded-full bg-amber-100 px-3 py-1 text-sm font-semibold text-amber-800">*/}
-        {/*        Upcoming Events*/}
-        {/*      </div>*/}
-        {/*      <h2 className="bg-gradient-to-br from-zinc-900 to-zinc-600 bg-clip-text text-3xl font-bold tracking-tighter text-transparent sm:text-4xl md:text-5xl">*/}
-        {/*        Join Our Activities*/}
-        {/*      </h2>*/}
-        {/*      <p className="max-w-[700px] text-zinc-600 md:text-xl">*/}
-        {/*        Participate in our exciting events and expand your economic*/}
-        {/*        knowledge.*/}
-        {/*      </p>*/}
-        {/*    </motion.div>*/}
-
-        {/*    <div className="mt-12 grid grid-cols-1 gap-8 md:grid-cols-3">*/}
-        {/*      {[*/}
-        {/*        {*/}
-        {/*          title: "AEGON-INDUSTRIAL Fund Management Visit",*/}
-        {/*          date: "May 19, 2025",*/}
-        {/*          description:*/}
-        {/*            "Join us for a visit at AEGON-INDUSTRIAL Fund Management.",*/}
-        {/*          link: "#",*/}
-        {/*        },*/}
-        {/*      ].map((event, i) => (*/}
-        {/*        <motion.div*/}
-        {/*          key={i}*/}
-        {/*          initial={{ opacity: 0, y: 20 }}*/}
-        {/*          whileInView={{ opacity: 1, y: 0 }}*/}
-        {/*          transition={{ duration: 0.5, delay: 0.1 * i }}*/}
-        {/*          viewport={{ once: true }}*/}
-        {/*          className="group"*/}
-        {/*        >*/}
-        {/*          <div className="relative flex h-full flex-col overflow-hidden rounded-xl border border-zinc-100 bg-white p-6 shadow-lg transition-all duration-300 hover:border-amber-200 hover:shadow-xl">*/}
-        {/*            <div className="absolute right-0 top-0 -z-10 h-24 w-24 bg-gradient-to-bl from-amber-100 to-transparent opacity-70"></div>*/}
-        {/*            <div className="mb-4">*/}
-        {/*              <span className="inline-block rounded-full bg-amber-100 px-3 py-1 text-xs font-medium text-amber-800">*/}
-        {/*                {event.date}*/}
-        {/*              </span>*/}
-        {/*            </div>*/}
-        {/*            <h3 className="mb-2 text-xl font-bold transition-colors duration-300 group-hover:text-amber-600">*/}
-        {/*              {event.title}*/}
-        {/*            </h3>*/}
-        {/*            <p className="flex-grow text-zinc-600">*/}
-        {/*              {event.description}*/}
-        {/*            </p>*/}
-        {/*            <div className="mt-4 border-t border-zinc-100 pt-4">*/}
-        {/*              <Button*/}
-        {/*                variant="ghost"*/}
-        {/*                className="h-auto p-0 text-amber-600 transition-transform duration-300 hover:bg-transparent hover:text-amber-700 group-hover:translate-x-1"*/}
-        {/*              >*/}
-        {/*                <Link href={event.link}>*/}
-        {/*                  Learn more <ChevronRight className="ml-1 h-4 w-4" />*/}
-        {/*                </Link>*/}
-        {/*              </Button>*/}
-        {/*            </div>*/}
-        {/*          </div>*/}
-        {/*        </motion.div>*/}
-        {/*      ))}*/}
-        {/*    </div>*/}
-        {/*  </div>*/}
-        {/*</section>*/}
+     ✝️ Pray to God that this code works ✝️
+                  Easter 2025
+*/}
 
         <section
           id="resources"
