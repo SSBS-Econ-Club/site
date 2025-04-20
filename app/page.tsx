@@ -207,12 +207,12 @@ export default function Home() {
               {[
                 {
                   name: "Lily Ding",
-                  role: "Leader",
-                  bio: "Founder and Leader of the TOKENS Economics Club.",
+                  role: "Founder & Leader",
+                  bio: "「得去美國啊」",
                 },
                 {
                   name: "Mandy Sun",
-                  role: "Co-leader",
+                  role: "Vice Leader",
                   bio: "Very very very very smart.",
                 },
                 {
@@ -228,7 +228,7 @@ export default function Home() {
                 // {
                 //   name: "Tommy Wu",
                 //   role: "Coolie",
-                //   bio: "Very dumb.",
+                //   bio: "Very smart.",
                 // },
               ].map((member, i) => (
                 <motion.div
