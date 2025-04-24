@@ -208,22 +208,22 @@ export default function Home() {
                 {
                   name: "Lily Ding",
                   role: "Founder & Leader",
-                  bio: "「得去美國啊」",
+                  bio: '"Logic, liquidity, leverage, loops—case closed."',
                 },
                 {
                   name: "Mandy Sun",
                   role: "Vice Leader",
-                  bio: "Very very very very smart.",
+                  bio: "Very very very smart.",
                 },
                 {
                   name: "Mabel He",
                   role: "Head of Publicity Department",
-                  bio: "Very very very smart.",
+                  bio: "Very very smart.",
                 },
                 {
                   name: "Chip Sun",
                   role: "Head of Academic Department",
-                  bio: "Very very smart.",
+                  bio: "Nothing",
                 },
                 // {
                 //   name: "Tommy Wu",
