@@ -225,11 +225,11 @@ export default function Home() {
                   role: "Head of Academic Department",
                   bio: "Nothing",
                 },
-                // {
-                //   name: "Tommy Wu",
-                //   role: "Coolie",
-                //   bio: "Very smart.",
-                // },
+                {
+                  name: "Thomas Wu",
+                  role: "Head of Technology Department",
+                  bio: "I think, therefore I am.",
+                },
               ].map((member, i) => (
                 <motion.div
                   key={i}
