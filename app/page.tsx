@@ -218,7 +218,7 @@ export default function Home() {
                 {
                   name: "Mabel He",
                   role: "Head of Publicity Department",
-                  bio: "Very very smart.",
+                  bio: "为普通平凡的日常献上花束",
                 },
                 {
                   name: "Chip Sun",
